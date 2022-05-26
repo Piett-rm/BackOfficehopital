@@ -50,7 +50,7 @@ namespace BackOfficehopital.WinForms
 
                     var reader = new StreamReader(respStream);
                     string data = reader.ReadToEnd();
-                    string token = data.Substring(10, 838);
+                    string token = data.Substring(10, 841);
                     var classtoken = new Token(token);
 
                     if (data != null)

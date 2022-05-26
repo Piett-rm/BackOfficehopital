@@ -34,10 +34,8 @@ namespace BackOfficehopital.WinForms
                 MessageBox.Show(TokenHeader.token);
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://localhost:8000/api/vaccin_types");
                 request.Method = "GET";
-        
                 request.Headers["Authorization"] = $"Bearer {TokenHeader.token}";
                 request.ContentType = "application/json";
-
                 MessageBox.Show(request.Headers["Authorization"]);
                 
                     HttpWebResponse response = (HttpWebResponse)request.GetResponse();
