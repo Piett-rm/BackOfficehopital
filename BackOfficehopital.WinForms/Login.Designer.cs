@@ -54,6 +54,7 @@ namespace BackOfficehopital.WinForms
             this.txt_username.Name = "txt_username";
             this.txt_username.Size = new System.Drawing.Size(128, 20);
             this.txt_username.TabIndex = 1;
+            this.txt_username.Text = "martine39@auger.com";
             // 
             // txt_password
             // 
@@ -61,6 +62,7 @@ namespace BackOfficehopital.WinForms
             this.txt_password.Name = "txt_password";
             this.txt_password.Size = new System.Drawing.Size(127, 20);
             this.txt_password.TabIndex = 2;
+            this.txt_password.Text = "Epsi.123";
             // 
             // lb_username
             // 

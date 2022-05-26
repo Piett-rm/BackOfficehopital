@@ -15,3 +15,4 @@ C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\bin\Debug\B
 C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\bin\Debug\Newtonsoft.Json.xml
 C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.csproj.CopyComplete
 C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.Accueil.resources
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.ModifierVaccinType.resources

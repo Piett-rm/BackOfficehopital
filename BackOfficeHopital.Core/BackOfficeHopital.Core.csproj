@@ -45,6 +45,7 @@
         <Compile Include="LoginJWT.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="Token.cs" />
+        <Compile Include="VaccinTypes.cs" />
     </ItemGroup>
     <ItemGroup>
       <None Include="packages.config" />
