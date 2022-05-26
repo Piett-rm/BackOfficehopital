@@ -1,0 +1,9 @@
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficeHopital.Core\bin\Debug\BackOfficeHopital.Core.dll
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficeHopital.Core\bin\Debug\BackOfficeHopital.Core.pdb
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficeHopital.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficeHopital.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficeHopital.Core\obj\Debug\BackOfficeHopital.Core.csproj.AssemblyReference.cache
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficeHopital.Core\obj\Debug\BackOfficeHopital.Core.csproj.CoreCompileInputs.cache
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficeHopital.Core\obj\Debug\BackOfficeHopital.Core.csproj.CopyComplete
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficeHopital.Core\obj\Debug\BackOfficeHopital.Core.dll
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficeHopital.Core\obj\Debug\BackOfficeHopital.Core.pdb

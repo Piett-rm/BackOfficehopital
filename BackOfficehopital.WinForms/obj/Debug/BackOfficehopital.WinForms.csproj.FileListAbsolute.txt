@@ -1,0 +1,17 @@
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\bin\Debug\BackOfficehopital.WinForms.exe.config
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\bin\Debug\BackOfficehopital.WinForms.exe
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\bin\Debug\BackOfficehopital.WinForms.pdb
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.csproj.AssemblyReference.cache
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.Properties.Resources.resources
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.csproj.GenerateResource.cache
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.csproj.CoreCompileInputs.cache
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.exe
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.pdb
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.Login.resources
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\bin\Debug\BackOfficeHopital.Core.dll
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\bin\Debug\BackOfficeHopital.Core.pdb
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.csproj.CopyComplete
+C:\Rémi\EPSI\B2\Projet\BackOfficehopital\BackOfficehopital.WinForms\obj\Debug\BackOfficehopital.WinForms.Accueil.resources
